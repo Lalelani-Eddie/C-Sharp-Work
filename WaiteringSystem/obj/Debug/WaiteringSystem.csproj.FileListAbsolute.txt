@@ -1,0 +1,13 @@
+C:\Users\Lalel\Downloads\C# WORK\Inheritence\obj\Debug\WaiteringSystem.csproj.AssemblyReference.cache
+C:\Users\Lalel\Downloads\C# WORK\Inheritence\obj\Debug\Inheritence.Properties.Resources.resources
+C:\Users\Lalel\Downloads\C# WORK\Inheritence\obj\Debug\WaiteringSystem.csproj.GenerateResource.cache
+C:\Users\Lalel\Downloads\C# WORK\Inheritence\obj\Debug\WaiteringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\obj\Debug\WaiteringSystem.csproj.AssemblyReference.cache
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\obj\Debug\Inheritence.Properties.Resources.resources
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\obj\Debug\WaiteringSystem.csproj.GenerateResource.cache
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\obj\Debug\WaiteringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\bin\Debug\Inheritence.exe.config
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\bin\Debug\Inheritence.exe
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\bin\Debug\Inheritence.pdb
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\obj\Debug\Inheritence.exe
+C:\Users\Lalel\Downloads\C# WORK\WaiteringSystem\obj\Debug\Inheritence.pdb
